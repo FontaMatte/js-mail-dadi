@@ -18,7 +18,6 @@ verifyButton.addEventListener('click',
 
         if (userMail.value == mailingList[i]) {
             emailAuthorized = true;
-            break;
         }
         }
 
